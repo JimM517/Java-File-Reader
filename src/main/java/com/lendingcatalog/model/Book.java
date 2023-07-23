@@ -1,6 +1,10 @@
 package com.lendingcatalog.model;
 
+import com.lendingcatalog.util.FileStorageService;
+import com.lendingcatalog.util.exception.FileStorageException;
+
 import java.time.LocalDate;
+import java.util.UUID;
 
 public class Book implements CatalogItem {
 
@@ -35,10 +39,38 @@ public class Book implements CatalogItem {
         return publishDate.getYear() == searchYear;
     }
 
-    //TODO create register item method with UUID
     @Override
     public void registerItem() {
+        this.id = UUID.randomUUID().toString();
+        try {
+            FileStorageService.writeContentsToFile(LocalDate.now().toString() + System.lineSeparator() + toString() + System.lineSeparator(), "src/main/resources/logs/book.txt", true);
+        } catch (FileStorageException e) {
+            e.getMessage();
+        }
+    }
 
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
+    public LocalDate getPublishDate() {
+        return publishDate;
+    }
+
+    public void setPublishDate(LocalDate publishDate) {
+        this.publishDate = publishDate;
     }
 
     @Override

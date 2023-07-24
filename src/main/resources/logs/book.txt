@@ -1,0 +1,966 @@
+2023-07-24
+ BOOK
+Exhalation
+ -written by: Ted Chiang
+ -Published: 2008-11-15
+ -Id: a2125434-8aab-46fd-bc2b-6a53d6f36a39
+
+2023-07-24
+ BOOK
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ -written by: Terry Pratchett & Neil Gaiman
+ -Published: 1990-05-01
+ -Id: 44f1f068-8cf2-4f5d-9d03-a1e2ca1ed632
+
+2023-07-24
+ BOOK
+Foundation
+ -written by: Isaac Asimov
+ -Published: 1951-08-30
+ -Id: 6e943218-af8e-4f6e-bb2d-5a551f0aa60c
+
+2023-07-24
+ BOOK
+Foundation's Edge
+ -written by: Isaac Asimov
+ -Published: 1982-10-28
+ -Id: 89031bb6-d873-4c88-84e0-9f6f6146a989
+
+2023-07-24
+ BOOK
+The Hunger Games
+ -written by: Suzanne Collins
+ -Published: 2008-09-14
+ -Id: c099dc5d-a4cb-4420-baa1-77697d1e287b
+
+2023-07-24
+ BOOK
+Going Postal
+ -written by: Terry Pratchett
+ -Published: 2004-09-25
+ -Id: da7e219f-88fe-4b32-a5df-bb9b783727ec
+
+2023-07-24
+ BOOK
+Making Money
+ -written by: Terry Pratchett
+ -Published: 2007-09-18
+ -Id: 03be5052-c0f5-43bf-a4a9-e9ce19fba4b9
+
+2023-07-24
+ BOOK
+Stranger in a Strange Land
+ -written by: Robert A. Heinlein
+ -Published: 1961-06-01
+ -Id: 1f1d4072-8fb0-4760-9e8d-bcc89297f49f
+
+2023-07-24
+ BOOK
+Exhalation
+ -written by: Ted Chiang
+ -Published: 2008-11-15
+ -Id: c4f42cc8-5df3-44bb-ac8a-5444ba73d8cf
+
+2023-07-24
+ BOOK
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ -written by: Terry Pratchett & Neil Gaiman
+ -Published: 1990-05-01
+ -Id: 4636fabc-4a80-4e8b-b89d-c42e5e670cee
+
+2023-07-24
+ BOOK
+The Hitchhiker's Guide to the Galaxy
+ -written by: Douglas Adams
+ -Published: 1979-10-12
+ -Id: 0e61fa06-0e49-4445-ad3d-36b65d4cb747
+
+2023-07-24
+ BOOK
+Animal Farm
+ -written by: George Orwell
+ -Published: 1945-08-17
+ -Id: 70a0e5fb-e015-40a5-a364-d37600382bcc
+
+2023-07-24
+ BOOK
+Jurassic Park
+ -written by: Michael Crichton
+ -Published: 1990-11-20
+ -Id: ef114305-8431-43e4-be49-75ac55e81fb0
+
+2023-07-24
+ BOOK
+The Hitchhiker's Guide to the Galaxy
+ -written by: Douglas Adams
+ -Published: 1979-10-12
+ -Id: a5a01851-3c66-44cd-b431-790ddec18313
+
+2023-07-24
+ BOOK
+Oh, the Places You'll Go!
+ -written by: Dr. Seuss
+ -Published: 1990-01-22
+ -Id: f17f9463-257f-4cdd-a806-5407f8972abe
+
+2023-07-24
+ BOOK
+Stranger in a Strange Land
+ -written by: Robert A. Heinlein
+ -Published: 1961-06-01
+ -Id: 2a0f1476-4233-4673-bea6-f2d6fdf44ea0
+
+2023-07-24
+ BOOK
+The Moon is a Harsh Mistress
+ -written by: Robert A. Heinlein
+ -Published: 1966-06-02
+ -Id: 8c2f2d76-1452-451e-9ba1-0410989626a5
+
+2023-07-24
+ BOOK
+Going Postal
+ -written by: Terry Pratchett
+ -Published: 2004-09-25
+ -Id: 3c22eebb-e177-4ca9-a516-ed605e5d9e91
+
+2023-07-24
+ BOOK
+Raising Steam
+ -written by: Terry Pratchett
+ -Published: 2013-11-07
+ -Id: 371ab8ff-d85f-40c7-9c1f-e2acfca1fd94
+
+2023-07-24
+ BOOK
+Making Money
+ -written by: Terry Pratchett
+ -Published: 2007-09-18
+ -Id: 558d092b-0ba6-4ab2-937b-18d8ec212817
+
+2023-07-24
+ BOOK
+The Fellowship of the Ring
+ -written by: J. R. R. Tolkien
+ -Published: 1954-07-29
+ -Id: a4c016ce-3a28-4d0a-81c6-847bb0d62915
+
+2023-07-24
+ BOOK
+The Two Towers
+ -written by: J. R. R. Tolkien
+ -Published: 1954-11-11
+ -Id: 0a06419b-2061-47cb-adb8-c5c016860623
+
+2023-07-24
+ BOOK
+The Return of the King
+ -written by: J. R. R. Tolkien
+ -Published: 1955-10-20
+ -Id: 933f1c9b-7bd4-4bd7-ba5f-ff1974c75560
+
+2023-07-24
+ BOOK
+Oh, the Places You'll Go!
+ -written by: Dr. Seuss
+ -Published: 1990-01-22
+ -Id: 6ca90ebd-a30e-4ab1-b659-cf8f127fa21c
+
+2023-07-24
+ BOOK
+The Fellowship of the Ring
+ -written by: J. R. R. Tolkien
+ -Published: 1954-07-29
+ -Id: 4ecb5380-bd40-401c-a333-5940fc21b22c
+
+2023-07-24
+ BOOK
+The Two Towers
+ -written by: J. R. R. Tolkien
+ -Published: 1954-11-11
+ -Id: 236ffbc1-3dff-4744-9226-046e326e4f0e
+
+2023-07-24
+ BOOK
+The Return of the King
+ -written by: J. R. R. Tolkien
+ -Published: 1955-10-20
+ -Id: a1601d6c-9731-4024-8b0b-6b1dbd5844c8
+
+2023-07-24
+ BOOK
+The Hunger Games
+ -written by: Suzanne Collins
+ -Published: 2008-09-14
+ -Id: 193ca406-880b-4bed-8980-6721ab9b9c40
+
+2023-07-24
+ BOOK
+Piranesi
+ -written by: Susanna Clarke
+ -Published: 2020-09-15
+ -Id: 86488fce-cb59-4566-af13-3c2df679a6df
+
+2023-07-24
+ BOOK
+Once Upon an Algorithm
+ -written by: Martin Erwig
+ -Published: 2017-08-11
+ -Id: a41f88be-6716-4b92-9921-2a94b66bb2b2
+
+2023-07-24
+ BOOK
+Raising Steam
+ -written by: Terry Pratchett
+ -Published: 2013-11-07
+ -Id: 53c3ce62-dff2-414c-9151-dcf7f6f32ec9
+
+2023-07-24
+ BOOK
+Making Money
+ -written by: Terry Pratchett
+ -Published: 2007-09-18
+ -Id: 9663728d-328b-4e78-a1fe-4dbb3f19a90f
+
+2023-07-24
+ BOOK
+Going Postal
+ -written by: Terry Pratchett
+ -Published: 2004-09-25
+ -Id: be4f122f-e606-4d84-9e45-1623b7b6bb6b
+
+2023-07-24
+ BOOK
+Exhalation
+ -written by: Ted Chiang
+ -Published: 2008-11-15
+ -Id: b4743990-88d3-4c7f-b68f-7ad29075ec31
+
+2023-07-24
+ BOOK
+Jurassic Park
+ -written by: Michael Crichton
+ -Published: 1990-11-20
+ -Id: bd4c1904-fafc-4b78-a7de-e9c159ef7a00
+
+2023-07-24
+ BOOK
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ -written by: Terry Pratchett & Neil Gaiman
+ -Published: 1990-05-01
+ -Id: 154530e5-7c87-43d9-bb03-7752f6049811
+
+2023-07-24
+ BOOK
+The Hitchhiker's Guide to the Galaxy
+ -written by: Douglas Adams
+ -Published: 1979-10-12
+ -Id: 0e893c6a-79cc-4cd2-a84b-78a5f9841cac
+
+2023-07-24
+ BOOK
+The Two Towers
+ -written by: J. R. R. Tolkien
+ -Published: 1954-11-11
+ -Id: 4475435e-1882-477b-be48-4db24c5fd717
+
+2023-07-24
+ BOOK
+The Fellowship of the Ring
+ -written by: J. R. R. Tolkien
+ -Published: 1954-07-29
+ -Id: 1d3dff7b-d4e1-499a-b1f5-216c7c398f44
+
+2023-07-24
+ BOOK
+The Return of the King
+ -written by: J. R. R. Tolkien
+ -Published: 1955-10-20
+ -Id: 4cd49fe0-e000-47ab-a708-9ae92a8e9509
+
+2023-07-24
+ BOOK
+Animal Farm
+ -written by: George Orwell
+ -Published: 1945-08-17
+ -Id: 8a163eba-00ac-42eb-a83c-7912830e0376
+
+2023-07-24
+ BOOK
+Racing the Beam
+ -written by: Nick Montfort and Ian Bogost
+ -Published: 2009-03-01
+ -Id: 7a93d173-1423-4aa0-b3ba-196b7288f135
+
+2023-07-24
+ BOOK
+Programming for the Puzzled
+ -written by: Srini Devadas
+ -Published: 2017-11-09
+ -Id: fc9ed311-9983-44d0-b82e-946be3872cf0
+
+2023-07-24
+ BOOK
+Once Upon an Algorithm
+ -written by: Martin Erwig
+ -Published: 2017-08-11
+ -Id: e1bdd37e-a178-4558-86c1-6b7efc95c5fa
+
+2023-07-24
+ BOOK
+The Moon is a Harsh Mistress
+ -written by: Robert A. Heinlein
+ -Published: 1966-06-02
+ -Id: 711733b7-6f3a-4b1c-bb2c-62da5fe16c65
+
+2023-07-24
+ BOOK
+Stranger in a Strange Land
+ -written by: Robert A. Heinlein
+ -Published: 1961-06-01
+ -Id: fc8a56fe-3a40-4b70-9d25-f41d6000b923
+
+2023-07-24
+* BOOK
+Exhalation
+ -written by: Ted Chiang
+ -Published: 2008-11-15
+ -Id: 637e4c9c-9426-4c81-8d05-7bfa980c0c15
+
+2023-07-24
+* BOOK
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ -written by: Terry Pratchett & Neil Gaiman
+ -Published: 1990-05-01
+ -Id: 3d24ed4d-4689-47c3-8403-e869faf84aae
+
+2023-07-24
+* BOOK
+Foundation
+ -written by: Isaac Asimov
+ -Published: 1951-08-30
+ -Id: b1ecdfd4-39a6-451c-bcdd-0f26690aecb9
+
+2023-07-24
+* BOOK
+Foundation's Edge
+ -written by: Isaac Asimov
+ -Published: 1982-10-28
+ -Id: 9813ca1d-ed5c-4eb4-b0ae-8d0f1853c719
+
+2023-07-24
+* BOOK
+The Hunger Games
+ -written by: Suzanne Collins
+ -Published: 2008-09-14
+ -Id: 2635bd22-5827-439f-b2a6-2008b565275c
+
+2023-07-24
+* BOOK
+Going Postal
+ -written by: Terry Pratchett
+ -Published: 2004-09-25
+ -Id: 5028c2f4-5df5-4a24-8109-a9d656b92c2d
+
+2023-07-24
+* BOOK
+Making Money
+ -written by: Terry Pratchett
+ -Published: 2007-09-18
+ -Id: e9ea0798-321a-4e85-bf77-cf9cbeeb2ff5
+
+2023-07-24
+* BOOK
+Stranger in a Strange Land
+ -written by: Robert A. Heinlein
+ -Published: 1961-06-01
+ -Id: 94bd079c-44e3-4208-94e4-77002fe4e15b
+
+2023-07-24
+* BOOK
+Exhalation
+ -written by: Ted Chiang
+ -Published: 2008-11-15
+ -Id: f0898507-8890-4ca8-8b4d-3fea50834530
+
+2023-07-24
+* BOOK
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ -written by: Terry Pratchett & Neil Gaiman
+ -Published: 1990-05-01
+ -Id: 74eacd14-74ae-460b-a09d-2bf50068ba08
+
+2023-07-24
+* BOOK
+The Hitchhiker's Guide to the Galaxy
+ -written by: Douglas Adams
+ -Published: 1979-10-12
+ -Id: 277ae121-c12b-44fc-925c-ae7c840485df
+
+2023-07-24
+* BOOK
+Animal Farm
+ -written by: George Orwell
+ -Published: 1945-08-17
+ -Id: 3977a759-7313-4967-a944-3026827b216c
+
+2023-07-24
+* BOOK
+Jurassic Park
+ -written by: Michael Crichton
+ -Published: 1990-11-20
+ -Id: 28d5d9bb-2fd1-4f29-8425-1c4cc77c98a4
+
+2023-07-24
+* BOOK
+The Hitchhiker's Guide to the Galaxy
+ -written by: Douglas Adams
+ -Published: 1979-10-12
+ -Id: f8f389e3-689c-451f-8ae3-e8d23da0a3c7
+
+2023-07-24
+* BOOK
+Oh, the Places You'll Go!
+ -written by: Dr. Seuss
+ -Published: 1990-01-22
+ -Id: 245d4319-f407-4393-89df-0ded6d5e5fb3
+
+2023-07-24
+* BOOK
+Stranger in a Strange Land
+ -written by: Robert A. Heinlein
+ -Published: 1961-06-01
+ -Id: 62632729-f257-4f7f-8963-5ae4963c8b5d
+
+2023-07-24
+* BOOK
+The Moon is a Harsh Mistress
+ -written by: Robert A. Heinlein
+ -Published: 1966-06-02
+ -Id: d251e56a-fef2-42b6-a4dd-01b51e3a6c8e
+
+2023-07-24
+* BOOK
+Going Postal
+ -written by: Terry Pratchett
+ -Published: 2004-09-25
+ -Id: e3abdbfd-b206-45df-a137-549e18e00d35
+
+2023-07-24
+* BOOK
+Raising Steam
+ -written by: Terry Pratchett
+ -Published: 2013-11-07
+ -Id: 52df8b5a-d6f4-4d4d-bea2-d0dda28a8e87
+
+2023-07-24
+* BOOK
+Making Money
+ -written by: Terry Pratchett
+ -Published: 2007-09-18
+ -Id: 4f7fa7d1-3a97-4274-97f0-178be668639c
+
+2023-07-24
+* BOOK
+The Fellowship of the Ring
+ -written by: J. R. R. Tolkien
+ -Published: 1954-07-29
+ -Id: 8d621d4a-b1f5-4486-8546-b2878a336bb4
+
+2023-07-24
+* BOOK
+The Two Towers
+ -written by: J. R. R. Tolkien
+ -Published: 1954-11-11
+ -Id: 26930d20-9f09-4b43-8798-fcd4ae6ccb3a
+
+2023-07-24
+* BOOK
+The Return of the King
+ -written by: J. R. R. Tolkien
+ -Published: 1955-10-20
+ -Id: 3c2c216a-725c-4a3c-98fa-95f7b3d345de
+
+2023-07-24
+* BOOK
+Oh, the Places You'll Go!
+ -written by: Dr. Seuss
+ -Published: 1990-01-22
+ -Id: 9413f5a8-77f2-430a-98c9-98bcf9f5341d
+
+2023-07-24
+* BOOK
+The Fellowship of the Ring
+ -written by: J. R. R. Tolkien
+ -Published: 1954-07-29
+ -Id: 7c921d85-6424-47a5-8e0d-01c135304413
+
+2023-07-24
+* BOOK
+The Two Towers
+ -written by: J. R. R. Tolkien
+ -Published: 1954-11-11
+ -Id: 257f76df-0fc1-4e0f-9b66-57cec12abdf5
+
+2023-07-24
+* BOOK
+The Return of the King
+ -written by: J. R. R. Tolkien
+ -Published: 1955-10-20
+ -Id: e6856fb1-6ab2-4a2e-a308-2e994c562307
+
+2023-07-24
+* BOOK
+The Hunger Games
+ -written by: Suzanne Collins
+ -Published: 2008-09-14
+ -Id: 81147bef-8304-4480-beee-dab487c17813
+
+2023-07-24
+* BOOK
+Piranesi
+ -written by: Susanna Clarke
+ -Published: 2020-09-15
+ -Id: 4adabe2e-422b-4c90-9227-e92bb72118e2
+
+2023-07-24
+* BOOK
+Once Upon an Algorithm
+ -written by: Martin Erwig
+ -Published: 2017-08-11
+ -Id: ed293204-20d1-4b27-93fb-5bac72fca268
+
+2023-07-24
+* BOOK
+Raising Steam
+ -written by: Terry Pratchett
+ -Published: 2013-11-07
+ -Id: 3e7d8347-0c0e-491c-a870-952c5e6b11c5
+
+2023-07-24
+* BOOK
+Making Money
+ -written by: Terry Pratchett
+ -Published: 2007-09-18
+ -Id: 6267d01b-4833-4ab7-87ca-588d55338789
+
+2023-07-24
+* BOOK
+Going Postal
+ -written by: Terry Pratchett
+ -Published: 2004-09-25
+ -Id: 22a586ad-462c-4bbf-83e3-92ab14b4f86a
+
+2023-07-24
+* BOOK
+Exhalation
+ -written by: Ted Chiang
+ -Published: 2008-11-15
+ -Id: 9ea61c04-1b05-45c6-8744-e86225e2825c
+
+2023-07-24
+* BOOK
+Jurassic Park
+ -written by: Michael Crichton
+ -Published: 1990-11-20
+ -Id: 136e7cf1-f7e5-4574-8757-4388b27f5289
+
+2023-07-24
+* BOOK
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ -written by: Terry Pratchett & Neil Gaiman
+ -Published: 1990-05-01
+ -Id: b3e11580-e480-42cc-8bc2-85dcd8507da9
+
+2023-07-24
+* BOOK
+The Hitchhiker's Guide to the Galaxy
+ -written by: Douglas Adams
+ -Published: 1979-10-12
+ -Id: 01a30a00-509c-4ee6-ae93-9271975a7984
+
+2023-07-24
+* BOOK
+The Two Towers
+ -written by: J. R. R. Tolkien
+ -Published: 1954-11-11
+ -Id: f8b17bbd-5d26-4ddc-bb48-05288cb6be96
+
+2023-07-24
+* BOOK
+The Fellowship of the Ring
+ -written by: J. R. R. Tolkien
+ -Published: 1954-07-29
+ -Id: 55806c85-c28a-4e57-b82f-b34a6d672954
+
+2023-07-24
+* BOOK
+The Return of the King
+ -written by: J. R. R. Tolkien
+ -Published: 1955-10-20
+ -Id: effa4f35-194f-4fe2-9a19-cb8b800d702d
+
+2023-07-24
+* BOOK
+Animal Farm
+ -written by: George Orwell
+ -Published: 1945-08-17
+ -Id: 0d12ed6a-6e99-43b2-94fa-aa298d5841f4
+
+2023-07-24
+* BOOK
+Racing the Beam
+ -written by: Nick Montfort and Ian Bogost
+ -Published: 2009-03-01
+ -Id: 08b7cb33-ce30-4de4-a5df-aa86b1c9609e
+
+2023-07-24
+* BOOK
+Programming for the Puzzled
+ -written by: Srini Devadas
+ -Published: 2017-11-09
+ -Id: c80db254-f24d-4d5b-a698-544140d0599c
+
+2023-07-24
+* BOOK
+Once Upon an Algorithm
+ -written by: Martin Erwig
+ -Published: 2017-08-11
+ -Id: b3789e67-4cdc-480b-9cb8-05f1bf0caf45
+
+2023-07-24
+* BOOK
+The Moon is a Harsh Mistress
+ -written by: Robert A. Heinlein
+ -Published: 1966-06-02
+ -Id: a4b6f563-7beb-4ec6-8e83-8da74e259dd2
+
+2023-07-24
+* BOOK
+Stranger in a Strange Land
+ -written by: Robert A. Heinlein
+ -Published: 1961-06-01
+ -Id: 0731e4c2-1019-4f89-bb03-1644276b75ed
+
+2023-07-24
+* BOOK
+Exhalation
+ -written by: Ted Chiang
+ -Published: 2008-11-15
+ -Id: 745226fc-bf99-4834-9a46-f1f3b388e799
+
+2023-07-24
+* BOOK
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ -written by: Terry Pratchett & Neil Gaiman
+ -Published: 1990-05-01
+ -Id: 4693b0de-eff9-4b6f-ad6b-973ad23b12b5
+
+2023-07-24
+* BOOK
+Foundation
+ -written by: Isaac Asimov
+ -Published: 1951-08-30
+ -Id: 8349092c-0622-4783-ae6d-974941d3c47d
+
+2023-07-24
+* BOOK
+Foundation's Edge
+ -written by: Isaac Asimov
+ -Published: 1982-10-28
+ -Id: 827d8a9d-79fd-4b0f-9c0d-f5b43f874413
+
+2023-07-24
+* BOOK
+The Hunger Games
+ -written by: Suzanne Collins
+ -Published: 2008-09-14
+ -Id: b9a53412-a5f2-4597-bd35-1e51cc4e4b48
+
+2023-07-24
+* BOOK
+Going Postal
+ -written by: Terry Pratchett
+ -Published: 2004-09-25
+ -Id: 830c330a-3127-4bc2-bd7a-a13b0749daa7
+
+2023-07-24
+* BOOK
+Making Money
+ -written by: Terry Pratchett
+ -Published: 2007-09-18
+ -Id: cb762964-7df9-4a1e-9d6d-9ca539db537f
+
+2023-07-24
+* BOOK
+Stranger in a Strange Land
+ -written by: Robert A. Heinlein
+ -Published: 1961-06-01
+ -Id: 2ed62e09-323c-4b5f-9dea-ddeede0aa44a
+
+2023-07-24
+* BOOK
+Exhalation
+ -written by: Ted Chiang
+ -Published: 2008-11-15
+ -Id: 3acbc66c-4a8d-45db-828f-8588d116f4eb
+
+2023-07-24
+* BOOK
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ -written by: Terry Pratchett & Neil Gaiman
+ -Published: 1990-05-01
+ -Id: 0145859b-5f40-417b-b982-8095adaa43dc
+
+2023-07-24
+* BOOK
+The Hitchhiker's Guide to the Galaxy
+ -written by: Douglas Adams
+ -Published: 1979-10-12
+ -Id: 381b2d1c-fbab-4b87-88ad-f52d16734c1a
+
+2023-07-24
+* BOOK
+Animal Farm
+ -written by: George Orwell
+ -Published: 1945-08-17
+ -Id: 13073886-4376-4617-8485-7dbccdda926d
+
+2023-07-24
+* BOOK
+Jurassic Park
+ -written by: Michael Crichton
+ -Published: 1990-11-20
+ -Id: 77f8222a-0484-49c1-b3e3-b0a322ae9098
+
+2023-07-24
+* BOOK
+The Hitchhiker's Guide to the Galaxy
+ -written by: Douglas Adams
+ -Published: 1979-10-12
+ -Id: 65e4eb3f-2130-4c9b-8191-b167310d442c
+
+2023-07-24
+* BOOK
+Oh, the Places You'll Go!
+ -written by: Dr. Seuss
+ -Published: 1990-01-22
+ -Id: dd6333ca-3115-46dd-bded-41eca329c4bf
+
+2023-07-24
+* BOOK
+Stranger in a Strange Land
+ -written by: Robert A. Heinlein
+ -Published: 1961-06-01
+ -Id: 663a3f72-5642-421c-ae39-e2635e558da1
+
+2023-07-24
+* BOOK
+The Moon is a Harsh Mistress
+ -written by: Robert A. Heinlein
+ -Published: 1966-06-02
+ -Id: ce8363ec-14b9-46ea-a103-e2b01e6e43f0
+
+2023-07-24
+* BOOK
+Going Postal
+ -written by: Terry Pratchett
+ -Published: 2004-09-25
+ -Id: 1c7d0736-b374-4027-9354-5b6e5b5cc4d6
+
+2023-07-24
+* BOOK
+Raising Steam
+ -written by: Terry Pratchett
+ -Published: 2013-11-07
+ -Id: 4ed7ba5c-ef45-4413-a07f-a459a6a0b20b
+
+2023-07-24
+* BOOK
+Making Money
+ -written by: Terry Pratchett
+ -Published: 2007-09-18
+ -Id: c0339554-67ce-4da3-8a93-140e4d71552f
+
+2023-07-24
+* BOOK
+The Fellowship of the Ring
+ -written by: J. R. R. Tolkien
+ -Published: 1954-07-29
+ -Id: 332f7eb2-d512-4874-88ea-f8191e9f28c0
+
+2023-07-24
+* BOOK
+The Two Towers
+ -written by: J. R. R. Tolkien
+ -Published: 1954-11-11
+ -Id: e622092e-fcc2-4042-8248-8d0f9f428638
+
+2023-07-24
+* BOOK
+The Return of the King
+ -written by: J. R. R. Tolkien
+ -Published: 1955-10-20
+ -Id: 27e1e60c-bbb6-4f8e-9a65-9e09ccf2f227
+
+2023-07-24
+* BOOK
+Oh, the Places You'll Go!
+ -written by: Dr. Seuss
+ -Published: 1990-01-22
+ -Id: cfbd2031-7756-46f1-a33d-76a79e0bc4d7
+
+2023-07-24
+* BOOK
+The Fellowship of the Ring
+ -written by: J. R. R. Tolkien
+ -Published: 1954-07-29
+ -Id: c67047b3-c0fa-4b37-8ca4-9c75be2f3d62
+
+2023-07-24
+* BOOK
+The Two Towers
+ -written by: J. R. R. Tolkien
+ -Published: 1954-11-11
+ -Id: 78733452-2174-494b-b414-0bd7109a5c9f
+
+2023-07-24
+* BOOK
+The Return of the King
+ -written by: J. R. R. Tolkien
+ -Published: 1955-10-20
+ -Id: 49f2eb6a-905a-49f5-986d-d90775093409
+
+2023-07-24
+* BOOK
+The Hunger Games
+ -written by: Suzanne Collins
+ -Published: 2008-09-14
+ -Id: e223de00-4884-4a66-b844-db5afaae6a81
+
+2023-07-24
+* BOOK
+Piranesi
+ -written by: Susanna Clarke
+ -Published: 2020-09-15
+ -Id: 69c49da5-49df-40a4-a179-5b06fa390a38
+
+2023-07-24
+* BOOK
+Once Upon an Algorithm
+ -written by: Martin Erwig
+ -Published: 2017-08-11
+ -Id: f48d37f9-5fe9-4e20-a5fb-5112cf333918
+
+2023-07-24
+* BOOK
+Raising Steam
+ -written by: Terry Pratchett
+ -Published: 2013-11-07
+ -Id: c852b639-c327-4d3c-8ea3-4ced03041cb7
+
+2023-07-24
+* BOOK
+Making Money
+ -written by: Terry Pratchett
+ -Published: 2007-09-18
+ -Id: d4610ce5-9969-440f-bfd3-02ad7866da52
+
+2023-07-24
+* BOOK
+Going Postal
+ -written by: Terry Pratchett
+ -Published: 2004-09-25
+ -Id: f72afcf9-3cdb-4370-880f-a3834b8ce4d5
+
+2023-07-24
+* BOOK
+Exhalation
+ -written by: Ted Chiang
+ -Published: 2008-11-15
+ -Id: 779309c9-36d8-4152-b22c-d1819df53787
+
+2023-07-24
+* BOOK
+Jurassic Park
+ -written by: Michael Crichton
+ -Published: 1990-11-20
+ -Id: 0631255d-dab4-455a-b458-0f91d944f964
+
+2023-07-24
+* BOOK
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ -written by: Terry Pratchett & Neil Gaiman
+ -Published: 1990-05-01
+ -Id: 78d444a1-d800-461c-bf5f-318756ad69f5
+
+2023-07-24
+* BOOK
+The Hitchhiker's Guide to the Galaxy
+ -written by: Douglas Adams
+ -Published: 1979-10-12
+ -Id: 994d0dbe-d175-4359-b4c4-1c4457a946ec
+
+2023-07-24
+* BOOK
+The Two Towers
+ -written by: J. R. R. Tolkien
+ -Published: 1954-11-11
+ -Id: c284a1c5-c9da-4069-bb0e-7c250ab7bbb2
+
+2023-07-24
+* BOOK
+The Fellowship of the Ring
+ -written by: J. R. R. Tolkien
+ -Published: 1954-07-29
+ -Id: 24d58f5b-c20c-47eb-8c7c-ecade7ae00f7
+
+2023-07-24
+* BOOK
+The Return of the King
+ -written by: J. R. R. Tolkien
+ -Published: 1955-10-20
+ -Id: 6f89e30c-6041-45a3-bf21-b2ce703bff86
+
+2023-07-24
+* BOOK
+Animal Farm
+ -written by: George Orwell
+ -Published: 1945-08-17
+ -Id: 81be9141-1c0a-4e4e-8076-b511aa3ed894
+
+2023-07-24
+* BOOK
+Racing the Beam
+ -written by: Nick Montfort and Ian Bogost
+ -Published: 2009-03-01
+ -Id: 530b10b3-fc98-42b5-944d-71ce5ad67367
+
+2023-07-24
+* BOOK
+Programming for the Puzzled
+ -written by: Srini Devadas
+ -Published: 2017-11-09
+ -Id: c44f1679-3f92-4a94-863d-9783f2002923
+
+2023-07-24
+* BOOK
+Once Upon an Algorithm
+ -written by: Martin Erwig
+ -Published: 2017-08-11
+ -Id: 860c00f3-528d-4e4c-845b-4fb95780f325
+
+2023-07-24
+* BOOK
+The Moon is a Harsh Mistress
+ -written by: Robert A. Heinlein
+ -Published: 1966-06-02
+ -Id: 62f4f7b7-ad0a-4530-b891-40327721ee54
+
+2023-07-24
+* BOOK
+Stranger in a Strange Land
+ -written by: Robert A. Heinlein
+ -Published: 1961-06-01
+ -Id: 54872d11-98a2-4f46-94e5-1b779b657c9c
+

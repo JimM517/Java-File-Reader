@@ -2,6 +2,7 @@ package com.lendingcatalog.util;
 
 import com.lendingcatalog.util.exception.FileStorageException;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintWriter;
@@ -27,7 +28,7 @@ public class FileStorageService {
     public static List<String> readContentsOfFile(String filename) throws FileStorageException {
         List<String> results = new ArrayList<>();
         //Try to scan the file first
-        try (Scanner scanner = new Scanner(filename)) {
+        try (Scanner scanner = new Scanner(new File(filename))) {
             while(scanner.hasNextLine()) {
                 // add each line to the list
                 results.add(scanner.nextLine());

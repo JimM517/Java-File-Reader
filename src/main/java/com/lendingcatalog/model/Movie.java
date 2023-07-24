@@ -26,12 +26,12 @@ public class Movie implements CatalogItem {
 
     @Override
     public boolean matchesName(String searchStr) {
-        return this.name.equalsIgnoreCase(searchStr);
+        return this.name.contains(searchStr.toLowerCase());
     }
 
     @Override
     public boolean matchesCreator(String searchStr) {
-        return this.director.equalsIgnoreCase(searchStr);
+        return this.director.contains(searchStr.toLowerCase());
     }
 
     @Override

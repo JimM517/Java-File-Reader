@@ -1,6 +1,8 @@
 package com.lendingcatalog;
 
 import com.lendingcatalog.model.*;
+import com.lendingcatalog.util.FileStorageService;
+import com.lendingcatalog.util.exception.FileStorageException;
 
 import java.util.*;
 
@@ -24,6 +26,64 @@ public class App {
     private void initialize() {
         // Requirement: Data transformation
 
+      try {
+          //Store member data into a list;
+          List<String> memberData = FileStorageService.readContentsOfFile(FILE_BASE_PATH + "members.dat");
+          //loop list
+          for (String line : memberData) {
+              //split each line into an array
+              String[] fields = line.split(FIELD_DELIMITER);
+              //check correct number of fields, members file should have three
+              if (fields.length != 3) {
+//                  throw new RuntimeException("Error: incorrect number of fields");
+
+              }
+              //initialize member with first two fields
+              Member member = new Member(fields[0], fields[1]);
+              String file = fields[2];
+              List<CatalogItem> items = populateItems(FILE_BASE_PATH + file);
+              catalog.put(member.toString(), items);
+          }
+      } catch (FileStorageException e) {
+          e.getMessage();
+      }
+
+    }
+
+    //helper function to read file and instantiate correct class
+    private List<CatalogItem> populateItems(String fileName) {
+        List<CatalogItem> results = new ArrayList<>();
+        try {
+            //read file
+            List<String> itemData = FileStorageService.readContentsOfFile(fileName);
+            //loop file
+            for (String data : itemData) {
+                //split data into an array
+                String[] fields = data.split(FIELD_DELIMITER);
+                //check correct number of fields, item files have four
+                if (fields.length != 4) {
+                    throw new RuntimeException("Error!");
+                }
+                switch(fields[0]) {
+                    case("book"): Book book = new Book(fields[1], fields[2], fields[3]);
+                    book.registerItem();
+                    results.add(book);
+                    break;
+                    case("movie"): Movie movie = new Movie(fields[1], fields[2], fields[3]);
+                    movie.registerItem();
+                    results.add(movie);
+                    break;
+                    case("tool"): Tool tool = new Tool(fields[1], fields[2], fields[3]);
+                    tool.registerItem();
+                    results.add(tool);
+                    break;
+                    default: throw new RuntimeException("Unrecognized");
+                }
+            }
+        } catch (FileStorageException e) {
+            e.getMessage();
+        }
+        return results;
     }
 
 

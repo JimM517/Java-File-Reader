@@ -1,0 +1,441 @@
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: ea842d12-37dc-406c-a511-10fb4491936e
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: fee9196e-c289-4307-b3af-21e75ade27ed
+
+2023-07-24
+* TOOL
+power drill
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: ab1ee59a-8d0e-4a6b-8c6c-a88a074f94e1
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 37272884-7961-466a-9a0b-23cdc075249b
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 1cd2ff47-7ed8-4725-8542-46138cde509c
+
+2023-07-24
+* TOOL
+stapler
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: 4709c77c-e99e-46bb-b87b-e841c7def803
+
+2023-07-24
+* TOOL
+power drill
+ - Manufactured By: DeWalt
+ - Owns: 1
+ - ID: fa1c5104-76ab-4c87-9272-dbbc4333e7ba
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 3
+ - ID: 5cdf996d-76c0-41f3-a9a0-e1d841554701
+
+2023-07-24
+* TOOL
+stapler
+ - Manufactured By: Swingline
+ - Owns: 2
+ - ID: 5f60ffa8-30d4-422b-803d-35fe9bcd6d5e
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: de94ffe8-3db8-47e0-9cb1-93845f53fcb8
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: a4bd3ecc-0a9b-4c5e-bb12-325c413189ae
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 471402f8-10c2-42c3-93c4-59d484bb8aa6
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: fc5ea11c-300a-475d-a9a2-23b3749435d0
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 1
+ - ID: b214ebac-70ad-4aff-8a19-09715b10d225
+
+2023-07-24
+* TOOL
+pry bar
+ - Manufactured By: Stanley
+ - Owns: 2
+ - ID: 547f37cd-6e18-4f52-bd25-d2eea6e360f1
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Vaughan
+ - Owns: 2
+ - ID: 5d0590ce-7beb-42e2-a9d6-53be8cbe88e0
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 8547332d-51af-4fb2-96fd-aeecdcd8ff7d
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Stanley
+ - Owns: 3
+ - ID: 10b6088c-5419-4c56-91ab-e0057fbb95fe
+
+2023-07-24
+* TOOL
+power drill
+ - Manufactured By: Milwaukee
+ - Owns: 2
+ - ID: 1927edba-3d56-4f58-a81c-c18512f78cd9
+
+2023-07-24
+* TOOL
+stapler
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: 31458aa8-9180-4c10-8757-337e762f82b0
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: e8ea3fab-7051-44ec-8b65-a15636b7ae5c
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: f004737e-103a-44b4-8c3c-1fe96f7916f9
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: d80c3113-3e6b-4b6d-8bdd-5a20fa943a65
+
+2023-07-24
+* TOOL
+power drill
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: 4534102f-aa7a-4a91-9b2e-bc26de4ee020
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 4c3d2a43-f424-405d-b52c-4701e826d385
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 438d7227-410e-4cd1-8c94-3f542fd6399d
+
+2023-07-24
+* TOOL
+stapler
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: 9951aafe-7e1b-487d-898a-e03dcef98ee5
+
+2023-07-24
+* TOOL
+power drill
+ - Manufactured By: DeWalt
+ - Owns: 1
+ - ID: 005563ae-287a-4d39-aacd-b80a02843b0c
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 3
+ - ID: 73d1e3ca-e494-4c03-a2b1-316d0f1d04b6
+
+2023-07-24
+* TOOL
+stapler
+ - Manufactured By: Swingline
+ - Owns: 2
+ - ID: 19980e9b-01cd-4863-956f-cf13d7791aef
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 1be72ef6-c115-4ab2-a139-ee5ccc909fe2
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 7bc62161-93e8-4b33-9bfb-c763a0305ed2
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: b4aae561-5c46-445a-87e5-f038565875d6
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 0b2c5bfa-82c1-496f-b83e-6dd1e1c51cf4
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 1
+ - ID: 2788f36e-fc33-4f78-92eb-d5f455e596c7
+
+2023-07-24
+* TOOL
+pry bar
+ - Manufactured By: Stanley
+ - Owns: 2
+ - ID: 581660de-ca99-4a05-afb6-c830351c47ee
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Vaughan
+ - Owns: 2
+ - ID: bba851c4-ef6b-46f5-94ca-10e2d7494a61
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: abf8e850-92be-44ca-b0a5-0ef316f3290d
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Stanley
+ - Owns: 3
+ - ID: 50a94ca6-1d9f-4b50-81ca-efcef64399d6
+
+2023-07-24
+* TOOL
+power drill
+ - Manufactured By: Milwaukee
+ - Owns: 2
+ - ID: 82a64ad8-33ed-466b-9a31-900a1bdb9915
+
+2023-07-24
+* TOOL
+stapler
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: 0d90ccd6-f90d-4bc9-b943-8067e69a8dc7
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: ea4ae83c-9ccb-4d20-953c-4f7781b4e4bd
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: f3d88d04-3608-4c5c-877e-90b0dcbb5937
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: b4c1d922-4687-4b7e-aa20-89f365537eff
+
+2023-07-24
+* TOOL
+power drill
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: 3d7eb74e-5466-4cf3-8171-09052c394fed
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: d6d44216-853f-4003-99d6-2af20a3c8806
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 7e7aa3c6-2033-4893-a7ca-e1e6abac828b
+
+2023-07-24
+* TOOL
+stapler
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: 861c4d85-3316-4cb4-964f-e3bdcb813728
+
+2023-07-24
+* TOOL
+power drill
+ - Manufactured By: DeWalt
+ - Owns: 1
+ - ID: 8a960285-ab4d-4000-9a8c-409cfe918076
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 3
+ - ID: afa74040-ca3c-4e14-9226-b2e49b4dbae7
+
+2023-07-24
+* TOOL
+stapler
+ - Manufactured By: Swingline
+ - Owns: 2
+ - ID: 189b95ed-3978-4e2b-9808-ec1e7b983e24
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: bf0bf6f4-c8fa-48f1-8d05-2de359c6ee10
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 0a1dec97-2575-4fe7-b1b9-d4f431f9116a
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 8ca5c45d-1a87-4191-84a0-7e311a4b41f9
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 663a75d7-e63b-4f46-bfe7-ca23b47f086b
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 1
+ - ID: 6e02ea0b-28c5-4af3-badc-a78c2104a38b
+
+2023-07-24
+* TOOL
+pry bar
+ - Manufactured By: Stanley
+ - Owns: 2
+ - ID: 35156bdb-2c2d-4359-b84e-b21b5ada9c60
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Vaughan
+ - Owns: 2
+ - ID: f2736c63-f2e9-41ee-a189-1d57ae99286d
+
+2023-07-24
+* TOOL
+hammer
+ - Manufactured By: Craftsman
+ - Owns: 1
+ - ID: 7c2ca963-e2dd-41df-b8d1-023cc23f6937
+
+2023-07-24
+* TOOL
+hand saw
+ - Manufactured By: Stanley
+ - Owns: 3
+ - ID: 6f1e4a33-2d61-4523-b717-15315e998a36
+
+2023-07-24
+* TOOL
+power drill
+ - Manufactured By: Milwaukee
+ - Owns: 2
+ - ID: 8d7ce645-9a08-4c57-ab34-78eeec8d79a2
+
+2023-07-24
+* TOOL
+stapler
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: 3405f13a-8eb1-40d3-9f91-7e3bf9e879ba
+
+2023-07-24
+* TOOL
+socket wrench
+ - Manufactured By: DeWalt
+ - Owns: 2
+ - ID: 381d9d2b-01de-4eb3-9d21-b379fc2c3374
+

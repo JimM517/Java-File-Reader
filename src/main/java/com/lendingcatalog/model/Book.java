@@ -75,7 +75,7 @@ public class Book implements CatalogItem {
 
     @Override
     public String toString() {
-        return " BOOK" + System.lineSeparator() + title + System.lineSeparator()
+        return "* BOOK" + System.lineSeparator() + title + System.lineSeparator()
                 + " -written by: " + author + System.lineSeparator()
                 + " -Published: " + publishDate + System.lineSeparator()
                 + " -Id: " + id;

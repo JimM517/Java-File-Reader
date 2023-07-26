@@ -26,12 +26,12 @@ public class Tool implements CatalogItem{
 
     @Override
     public boolean matchesName(String searchStr) {
-        return this.type.contains(searchStr.toLowerCase());
+        return this.type.toLowerCase().contains(searchStr.toLowerCase());
     }
 
     @Override
     public boolean matchesCreator(String searchStr) {
-        return this.manufacturer.contains(searchStr.toLowerCase());
+        return this.manufacturer.toLowerCase().contains(searchStr.toLowerCase());
     }
 
     @Override

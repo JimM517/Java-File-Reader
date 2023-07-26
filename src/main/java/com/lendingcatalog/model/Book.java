@@ -26,12 +26,12 @@ public class Book implements CatalogItem {
 
     @Override
     public boolean matchesName(String searchStr) {
-        return this.title.equalsIgnoreCase(searchStr);
+        return this.title.toLowerCase().contains(searchStr.toLowerCase());
     }
 
     @Override
     public boolean matchesCreator(String searchStr) {
-        return this.author.equalsIgnoreCase(searchStr);
+        return this.author.toLowerCase().contains(searchStr.toLowerCase());
     }
 
     @Override
